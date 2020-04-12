@@ -1,4 +1,4 @@
-#Instructions for start mr-job exercise (salary of employees according to DIAN)
+# Instructions for start mr-job exercise (salary of employees according to DIAN)
 
 You need a data file with 4 four fields: idemp (employee id), sececon (economic sector), salary and year, and their respective data.
 
